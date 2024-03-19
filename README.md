@@ -20,8 +20,8 @@ The data for this analysis is sourced from Eniac's discount database, covering t
 
 ## Folder Structure
 
-- `/src`: Contains Python scripts code for data cleaning and analysis.
-- `/docs`: Cleaned tables and presentations.
+- `/src`: Contains Python scripts and SQL code for data cleaning and analysis.
+- `/docs`: Project documentation, reports, and presentations.
 
 ## Analysis Summary
 
@@ -54,3 +54,10 @@ To enhance the dataset, the following recommendations are proposed:
 4. **Additional Columns for Cost Calculation**: Include new columns for product costs, delivery values, and taxes to calculate profit margins.
 
 This analysis sets the foundation for optimizing Eniac's discounting strategy, with a focus on increasing revenue and aligning discounts with specific product categories and seasonal trends.
+
+## Authors
+
+- [Hanne Prüfer](https://github.com/HannePruefer)
+- [Helene Rebelo](https://github.com/HeleneRebelo)
+- [Irene da Cruz](https://github.com/IreneDaCruz)
+- [Roberto Cavotti](https://github.com/RobertoCavotti)
